@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on AWS and Azure Platform<br>I'm looking to collaborate on AWS and Azure<br>I'm currently learning AI/ML<br>I like to play with rubics cube in my free time and watch some OTT stuffs. 
+I'm currently working on AWS and Azure Platform<br>I'm looking to collaborate on AWS and Azure<br>I'm currently learning AI/ML<br>I like to play with rubics cube in my free time and watch some OTT content. 
 
 
 ## 🌐 Socials:
