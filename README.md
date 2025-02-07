@@ -17,7 +17,7 @@ I'm currently working on AWS and Azure Platform<br>I'm looking to collaborate on
 ![](https://github-profile-trophy.vercel.app/?username=vineetprasad19&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=verticle&theme=monokai)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=vineetprasad19&limit=5&theme=dark&combine_all_yearly_contributions=true)
