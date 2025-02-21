@@ -1,6 +1,17 @@
 # 💫 About Me:
 I'm currently working on AWS and Azure Platform<br>I'm looking to collaborate on AWS and Azure<br>I'm currently learning AI/ML<br>In my free time I like to solve rubics cube, read books, and watch some entertainment stuff. 
 
+## 🎓 Ceritifcations:  
+Certified Microsoft Azure Data Engineering  
+Certified Python Programming  
+Certified Snowflake Developer  
+Certified Mulesoft 4.X  
+Salesforce Certified Data Cloud Consultant  
+Salesforce Certified AI Associate  
+Oracle Cloud Infrastructure Certified Associate  
+Oracle Data Integrator 11g Certified Implementation Specialist  
+Oracle SOA Suite 12c with EDI, REST, SOAP, and BPEL  
+Certified Informatica Master Data Management  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vineetprasad7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/viniithprasad) ![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white) ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)
