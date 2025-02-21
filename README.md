@@ -4,8 +4,8 @@ I'm currently working on AWS and Azure Platform<br>I'm looking to collaborate on
 ## 🎓 [Ceritifcations:](https://www.linkedin.com/in/vineetprasad7/details/certifications/)  
 Certified Azure Data Engineering Associate  
 Certified Python Programming  
-Certified Snowflake Developer  
-Certified Mulesoft 4.X  
+Certified Snowflake Data Engineer  
+Certified Salesforce Mulesoft Developer
 Salesforce Certified Data Cloud Consultant  
 Salesforce Certified AI Associate  
 Oracle Cloud Infrastructure Certified Associate  
