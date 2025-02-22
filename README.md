@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm currently working on AWS and Azure Platform<br>I'm looking to collaborate on AWS and Azure<br>I'm currently learning AI/ML<br>In my free time I like to solve rubics cube, read books, and watch some entertainment stuff. 
 
-## 🎓 [Ceritifcations:](https://www.linkedin.com/in/vineetprasad7/details/certifications/)  
+## 🎓 [Ceritifications:](https://www.linkedin.com/in/vineetprasad7/details/certifications/)  
 Certified Azure Data Engineering Associate  
 Certified Python Programming   
 Certified Snowflake Data Engineer  
